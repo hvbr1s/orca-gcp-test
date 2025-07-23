@@ -16,6 +16,9 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
+  "engines": {
+    "node": ">=18.17.1"
+  },
   "devDependencies": {
     "@types/node": "^22.14.0",
     "ts-node": "^10.9.2",

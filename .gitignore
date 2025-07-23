@@ -5,5 +5,4 @@ secret/*
 package-lock.json
 txs/*
 bin
-meta-swap.sh
-meta-swap.ts
+logs
